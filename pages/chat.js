@@ -1,5 +1,5 @@
 export default function PaginaDoChat () {
-  return ( 
+  return (  
     <div>Página ddo Chat</div>
   )
 }
